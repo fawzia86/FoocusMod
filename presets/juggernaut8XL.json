@@ -43,6 +43,6 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "xlmoreartfull.safetensors": "https://civitai.com/api/download/models/152309?type=Model&format=SafeTensor"
-        "xlmoreartfull.safetensors": "https://civitai.com/api/download/models/62833"
+        "lora:add_detail.safetensors": "https://civitai.com/api/download/models/62833"
     }
 }
