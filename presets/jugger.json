@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_version8Rundiffusion.safetensors",
+    "default_model": "juggernautXL_RunDiffusionPhoto2Lightning4.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "juggernautXL_version8Rundiffusion.safetensors": "https://civitai.com/api/download/models/288982",
+        "juggernautXL_RunDiffusionPhoto2Lightning4.safetensors": "https://civitai.com/api/download/models/357609",
     },
     "embeddings_downloads": {},
     "lora_downloads": {
