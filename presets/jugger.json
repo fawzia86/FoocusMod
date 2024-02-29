@@ -38,8 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "juggernautXL_version9pRundiffusion.safetensors": "https://civitai.com/api/download/models/348913",
-        "sd_xl_base_1.0_0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors"
+        "juggernautXL_version9pRundiffusion.safetensors": "https://civitai.com/api/download/models/348913",  
     },
     "embeddings_downloads": {},
     "lora_downloads": {
